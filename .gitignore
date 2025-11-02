@@ -1,0 +1,35 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.iml
+*.iws
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.sw0
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.logs
+logs/
+
+# Maven
+.mvn/
+
+# Application
+application-local.yml
+applicaction-secret.yml
+
+# Docker
+.env
+
+#Obsidian
+.obsidian/
